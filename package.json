@@ -4,7 +4,8 @@
   "description": "Onboarding exercise for building APIs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node cool.js"
   },
   "repository": {
     "type": "git",
