@@ -25,5 +25,10 @@
   "homepage": "https://github.com/bendboaz/onboarding-project#readme",
   "dependencies": {
     "cool-ascii-faces": "^1.3.4"
+  },
+  "assets": {
+    "diagram": "diagrams/compiled/onboarding.png",
+    "alps": "onboarding-alps-05.yaml",
+    "apiDocs" : "Onboarding.md"
   }
 }
